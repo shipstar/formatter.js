@@ -6,9 +6,9 @@
  */
 
 define([
-  'pattern-matcher',
-  'inpt-sel',
-  'utils'
+  './pattern-matcher',
+  './inpt-sel',
+  './utils'
 ], function (patternMatcher, inptSel, utils) {
 
 
